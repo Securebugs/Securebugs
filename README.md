@@ -8,10 +8,11 @@
 ---
 
 ### 💡 About Me
-- 💻 I’m a developer passionate about building innovative apps and tools.
-- 🚀 Focused on **Android Development, Web Technologies, and Python Automation.**
-- 🌱 Currently exploring **Kodular Apps & Extensions for Block platforms, Flask, APIs, and App Publishing.**
-- 🧠 Constantly improving skills and contributing to open-source projects.
+
+- 💻 I’m a developer passionate about building innovative apps and tools.  
+- 🚀 Focused on **Android Development, Web Technologies, and Python Automation.**  
+- 🌱 Currently exploring **Kodular Apps & Extensions for Block Platforms, Flask, APIs, and App Publishing.**  
+- 🧠 Constantly improving my skills and contributing to open-source projects.
 
 ---
 
@@ -43,13 +44,13 @@
     <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Securebugs&show_icons=true&theme=tokyonight" />
-
 </p>
 
 <p align="center">
@@ -58,4 +59,4 @@
 
 ---
 
-❤️ From [Securebugs](https://github.com/Securebugs)
+<h3 align="center">❤️ With Love from <a href="https://github.com/Securebugs">Securebugs</a></h3>
