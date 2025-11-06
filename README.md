@@ -5,6 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=Securebugs&label=Profile%20views&color=0e75b6&style=flat" alt="Securebugs" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Extension%20Developer-8E44AD?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website%20Developer-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-F39C12?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sr.%20Technical%20Recruiter-2C3E50?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
+
 ---
 
 ### 💡 About Me
