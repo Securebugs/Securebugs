@@ -28,18 +28,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Securebugs&show_icons=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Securebugs&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -56,7 +44,19 @@
     <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Securebugs&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Securebugs&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ From [Securebugs](https://github.com/Securebugs)
+❤️ From [Securebugs](https://github.com/Securebugs)
